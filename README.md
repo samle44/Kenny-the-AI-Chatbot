@@ -20,7 +20,7 @@ Kenny is a Python-based AI chatbot built using spaCy and NLTK. It is designed to
 3. Activate the virtual environment:
    - On Windows:
      ```bash
-     chatbot_env\Scriptsctivate
+     chatbot_env\Scripts\activate
      ```
    - On macOS/Linux:
      ```bash
